@@ -3,5 +3,5 @@ gunicorn
 click
 jinja2
 itsdangerous
-MakeupSafe
+MarkupSafe
 Werkzeug
