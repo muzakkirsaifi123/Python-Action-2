@@ -1,0 +1,7 @@
+Flask
+gunicorn
+click
+jinja2
+itsdangerous
+Makeupsafe
+Werkzeug
